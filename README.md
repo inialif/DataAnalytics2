@@ -1,8 +1,9 @@
-# Learn Data Visualisation Part 2
+# Data Analytics Part 2
 
-In this week, we will continue our journey to learn about data visualisation. We will learn about the basic data visualisation techniques and how to create various types of plots using Python libraries such as Matplotlib and Seaborn. We will also explore more advanced data visualisation concepts and techniques to help you create more informative and visually appealing visualisations.
+Welcome to the Python For Data Analytics! 🙌
+In this week, we will continue our journey to learn about data visualization. We will learn about the basic data visualization techniques and how to create various types of plots using Python libraries such as Matplotlib and Seaborn. We will also explore more advanced data visualization concepts and techniques to help you create more informative and visually appealing visualizations.
 
-By the end of this week, you will have a solid understanding of data visualisation techniques and be able to create a wide range of visualisations to effectively communicate your data insights.
+By the end of this week, you will have a solid understanding of data visualization techniques and be able to create a wide range of visualizations to effectively communicate your data insights.
 
 ## Importing Libraries
 
@@ -168,4 +169,4 @@ Example of Evaluation of Regression Model:
 
 This part of the course is designed to help you understand the basic concepts of data visualisation and how to create various types of plots using Python libraries such as Matplotlib and Seaborn. We have covered a wide range of topics, from basic plotting techniques to more advanced data visualisation concepts and techniques.
 
-We hope you have found this part of the course helpful and that you now have a solid understanding of data visualisation techniques. We encourage you to practice what you have learned and explore more advanced data visualisation concepts to further enhance your data visualisation skills.
+We hope you have found this part of the course helpful and that you now have a solid understanding of data analytics techniques. We encourage you to practice what you have learned and explore more advanced data analytics concepts to further enhance your data analytics skills. Keep up the great work, and may your learning journey be filled with success and discovery! 🚀
